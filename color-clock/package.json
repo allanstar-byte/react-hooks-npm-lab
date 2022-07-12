@@ -1,0 +1,11 @@
+{
+    "name": "timercolor",
+    "version": "1.0.0",
+    "description": "Testing the package.json",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo 'Hello World!'"
+    },
+    "author": "",
+    "license": "ISC"
+}
